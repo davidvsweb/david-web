@@ -16,9 +16,9 @@ export function Header() {
           <h1 className="text-3xl font-bold text-center md:text-left">
             David Vázquez Sánchez
           </h1>
-          <h3 className="text-green font-bold text-lg">Desarrollador Web | Front End</h3>
+          <h3 className="text-green font-bold text-lg">Desarrollador | Front End</h3>
           <p className="text-md text-center md:text-left">
-            Soy un desarrollador web apasionado, comprometido con crear
+            Soy un desarrollador apasionado, comprometido con crear
             proyectos de alto impacto mediante el uso de las mejores prácticas y
             tecnologías modernas. Me enfoco en ofrecer soluciones innovadoras
             que destacan en el mercado y brindan resultados excepcionales.
