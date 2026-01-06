@@ -8,10 +8,10 @@ export function Footer() {
             <div className="flex flex-col md:flex-row justify-between items-center">
                 <div className="">
                     <h5 className="text-center mb-3 font-bold">Contacto</h5>
-                    <p className="d-block">Teléfono: <a href="tel:+2297321499" className="text-green font-bold">229 732 1499</a>
+                    <p className="d-block">Teléfono: <a href="tel:+5510750696" className="text-green font-bold">55 1075 0696</a>
                     </p>
-                    <p className="">Correo: <a href="mailto: vsjd.99@gmail.com"
-                        className="text-green font-bold">vsjd.99@gmail.com</a></p>
+                    <p className="">Correo: <a href="mailto: davidwebcode@gmail.com"
+                        className="text-green font-bold">davidwebcode@gmail.com</a></p>
                     <p className="">Página web: <a href="https://davidvsweb.github.io/david-web/"
                         className="text-green font-bold">davidvsweb.github.io/david-web</a>
                     </p>
@@ -25,7 +25,7 @@ export function Footer() {
                         <a href="https://www.linkedin.com/in/david-vázquez-27078920b" className="text-green" target="_blank">
                             <LinkedInIcon sx={{ fontSize: '40px' }} className="mx-3" />
                         </a>
-                        <a href="https://www.instagram.com/deivid.web/" className="text-green" target="_blank">
+                        <a href="https://www.instagram.com/david.web.code/" className="text-green" target="_blank">
                             <InstagramIcon sx={{ fontSize: '40px' }} />
                         </a>
                     </div>
